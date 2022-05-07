@@ -30,15 +30,24 @@ Additional holidays are days added a regular calendar holiday, for example, as t
 Wages in the public sector are paid every two weeks on the 15 th and on the last day of the month. Supermarket sales could be affected by this.
 A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in relief efforts donating water and other first need products which greatly affected supermarket sales for several weeks after the earthquake.
 
-## Phase-1 : Data pre-processing :
-1. Merging all the CSV into train.csv based on the respective parameters
-2. Replacing the empty/blank values with NULL
-3. Split the dataset for training & testing - Sampling Techniques
-4. Visualization of the training dataset -> Matplotlib, SeaBorn ,etc.
+#### 1. Problem Statement : 
+To predicting the unit sales for thousands of items sold at different Favorita stores located in Ecuador. We would be builing a time-series model to predict the sales of the store. 
 
-## Phase-2 : Training :
-1. Choose 2-3 best matched algorithm for our data
-2. Comparative analysis: different models from different/same algorithm (Parameter tuning). Which one is the best one? Through error metric
+#### 2. Data Selection : 
+The dataset that we are working on is downloaded from a Kaggle compitition : https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview 
 
-## Phase-3 :
-1. Train the best model with all the data to predict on the test dataset
+#### 3. Exploratory Data Analysis :
+This process is one of the crucial process which provides initial data analysis and data investigation and provides important insights and characteristics of the data using summary statistics and graphical representations.
+
+#### 4. Data Pre-Processing :
+
+#### 5. Data Transformation :
+
+#### 6. Feature Selection :
+
+#### 7. Model Selection :
+
+#### 8. Model Training :
+
+#### 9. Model Evaluation :
+
