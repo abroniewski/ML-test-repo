@@ -31,7 +31,7 @@ Wages in the public sector are paid every two weeks on the 15 th and on the last
 A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in relief efforts donating water and other first need products which greatly affected supermarket sales for several weeks after the earthquake.
 
 #### 1. Problem Statement : 
-To predicting the unit sales for thousands of items sold at different Favorita stores located in Ecuador. We would be builing a time-series model to predict the sales of the store. 
+To predicting the unit sales for thousands of items sold at different Favorita stores located in Ecuador. We would be building a time-series model to predict the sales of the store. 
 
 #### 2. Data Selection : 
 The dataset that we are working on is downloaded from a Kaggle compitition : https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview 
