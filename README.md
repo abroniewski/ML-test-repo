@@ -33,21 +33,32 @@ A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in r
 #### 1. Problem Statement : 
 To predicting the unit sales for thousands of items sold at different Favorita stores located in Ecuador. We would be building a time-series model to predict the sales of the store. 
 
-#### 2. Data Selection : 
+#### Phase I. Data Selection : 
 The dataset that we are working on is downloaded from a Kaggle compitition : https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview 
 
-#### 3. Exploratory Data Analysis :
-This process is one of the crucial process which provides initial data analysis and data investigation and provides important insights and characteristics of the data using summary statistics and graphical representations.
+#### Phase II. Data Transformation :
+1. Reading the files
+2. Merging all the CSV files into train.csv based on respective parameters
+3. Dealing with missing values
+4. Replace the NULL value with some more meaningful value
+5. Extracting the value from "date" column
+6. Correcting holidays_events CSV
 
-#### 4. Data Pre-Processing :
+#### Phase III. Data Pre-processing :
+1. Relationship Analysis
 
-#### 5. Data Transformation :
+#### Phase IV. Model Selection and Training :
+1. Linear Regression (Ridge Regression)
+2. Decision Tree Regressor
+3. Random Forest
+4. Linear Regression with Random Forest Regressor
 
-#### 6. Feature Selection :
+#### Phase V. Model Evaluation : The evaluation metric used for comparing the models was Root Mean Squared Logarithmic Error, 
+which is calculated as stated below:
+![image](https://user-images.githubusercontent.com/48669474/171723912-cf20bd07-6b5b-4538-943c-cd9b146b1fa1.png)
 
-#### 7. Model Selection :
 
-#### 8. Model Training :
 
-#### 9. Model Evaluation :
+
+
 
