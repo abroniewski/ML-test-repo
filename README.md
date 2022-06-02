@@ -53,8 +53,9 @@ The dataset that we are working on is downloaded from a Kaggle compitition : htt
 3. Random Forest
 4. Linear Regression with Random Forest Regressor
 
-#### Phase V. Model Evaluation : The evaluation metric used for comparing the models was Root Mean Squared Logarithmic Error, 
-which is calculated as stated below:
+#### Phase V. Model Evaluation : 
+The evaluation metric used for comparing the models was Root Mean Squared Logarithmic Error, 
+which is calculated as stated below: <br>
 ![image](https://user-images.githubusercontent.com/48669474/171723912-cf20bd07-6b5b-4538-943c-cd9b146b1fa1.png)
 
 
